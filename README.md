@@ -38,7 +38,7 @@ In order to use this model it is necessary to download the following packages
 The other packages are given in the jupyter notebook code 
 
 
-# AWS
+## AWS
 
 The work on the assignment was mainly performed on Amazon Web Services EC2 instance with instance type t2.2xlarge
 
